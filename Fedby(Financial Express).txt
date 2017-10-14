@@ -1,0 +1,28 @@
+1.
+* get year,month,date 
+* Check valid date
+* check which is future date or age is greater
+than 135
+* sunsign
+* If Birthday then wish msg
+
+2.
+constructor
+* 4 params
+* 3 params
+* 3 params
+* sunsign
+* If Birthday then wish msg
+* check age is above 18 by readonly variable
+* recommended mail id with required
+details like yahoo.
+
+
+
+3.
+interface
+* Add Payable interface with 3 methods . Add money, Retreive money, update mailing address.
+* add static variable for amount.
+* add person class
+* add employee class derived from person class and interface.
+
